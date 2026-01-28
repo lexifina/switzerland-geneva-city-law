@@ -1,0 +1,5 @@
+# Art. 126bis Rapport de minorité
+1 Un rapport de minorité peut être annoncé au plus tard lors de la séance qui consacre la fin du traitement de l’objet par la commission. Le nom de la personne qui se propose pour rédiger le rapport de minorité est communiqué au président ou à la présidente de la commission dans la même séance où l’annonce est faite ou, au plus tard, lors de la séance suivante.
+2 Plusieurs rapports de minorité peuvent être annoncés pour un même objet.
+3 Le rapporteur ou la rapporteuse de minorité doit être membre de la commission saisie pour traiter l’objet. Si le rapporteur ou la rapporteuse de minorité quitte la commission avant la fin du traitement de l’objet, un autre membre de la commission peut reprendre le rapport de minorité.
+4 Le rapport de minorité doit être rendu au plus tard dans les 3 mois qui suivent la fin du traitement de l’objet. Un rapport de minorité qui n’a pas été rendu dans le délai imparti ne peut retarder le traitement du rapport de majorité par le Conseil municipal.
