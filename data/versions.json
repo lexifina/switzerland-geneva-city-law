@@ -1,0 +1,719 @@
+{
+ "country": "CH-GE-GENEVE",
+ "acts": [
+  {
+   "slug": "21111",
+   "short": "21111",
+   "title": "Règlement du Conseil municipal de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21111-reglement-conseil-municipal-ville-geneve",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 163,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21111-reglement-conseil-municipal-ville-geneve",
+     "sha256": "9e0ed5e394eb361d49b5267e0d3a0b65b06d467db833e67bcc4318c1bc9120bf"
+    }
+   ]
+  },
+  {
+   "slug": "21121",
+   "short": "21121",
+   "title": "Règlement du Conseil administratif de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21121-reglement-conseil-administratif-ville-geneve",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 37,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21121-reglement-conseil-administratif-ville-geneve",
+     "sha256": "335481f8ec00dfe548adabbfc405af867000faed4e31ce8d241ef82fc7f26c8f"
+    }
+   ]
+  },
+  {
+   "slug": "21122",
+   "short": "21122",
+   "title": "Règlement concernant le traitement et la retraite des membres du Conseil administratif",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21122-reglement-concernant-traitement-retraite-membres-conseil-administratif",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 12,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21122-reglement-concernant-traitement-retraite-membres-conseil-administratif",
+     "sha256": "be860f811629c61eb748413f8199494a8482cd1661feaf73f479b209332f18d8"
+    }
+   ]
+  },
+  {
+   "slug": "21122-1",
+   "short": "21122.1",
+   "title": "Règlement d'application du règlement concernant le traitement et la retraite des membres du Conseil administratif",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21122-reglement-application-reglement-concernant-traitement-retraite-membres-conseil-administratif",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 16,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21122-reglement-application-reglement-concernant-traitement-retraite-membres-conseil-administratif",
+     "sha256": "fa5a66e880cab929ca2915f04c39de3fd24b81b99bc4d1a5db8603bb1ddef7bb"
+    }
+   ]
+  },
+  {
+   "slug": "21131",
+   "short": "21131",
+   "title": "Règlement de la salle de consultation des Archives de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21131-reglement-salle-consultation-archives-ville-geneve",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 13,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21131-reglement-salle-consultation-archives-ville-geneve",
+     "sha256": "d7de8866471c9211722a93083998ca547f0e38ec244d019d84692ed17b45a61c"
+    }
+   ]
+  },
+  {
+   "slug": "21135",
+   "short": "21135",
+   "title": "Règlement relatif au Comité de direction (CODIR)",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21135-reglement-relatif-comite-direction-codir",
+   "versions": [
+    {
+     "from": "2019-05-16",
+     "units": 9,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21135-reglement-relatif-comite-direction-codir",
+     "sha256": "f3fd62be73d86056d2dc5e04bdc3985b10ade64a1a4105f424a8e7d1d812a36c"
+    }
+   ]
+  },
+  {
+   "slug": "21136",
+   "short": "21136",
+   "title": "Règlement relatif à l'organisation et à la surveillance des fondations et établissements de droit public communal",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21136-reglement-relatif-organisation-surveillance-fondations-etablissements-droit-public-communal",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 25,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21136-reglement-relatif-organisation-surveillance-fondations-etablissements-droit-public-communal",
+     "sha256": "cb9766ef2338754a3cbca174881a01509dfd3312761d3f55416a7e817876a5c4"
+    }
+   ]
+  },
+  {
+   "slug": "21152-0",
+   "short": "21152.0",
+   "title": "Règlement d'application du statut du personnel de la Ville de Genève (REGAP)",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-application-statut-personnel-ville-geneve-regap",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 120,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-application-statut-personnel-ville-geneve-regap",
+     "sha256": "1021fc36bd57735023bcd15ba437ec91043f6e41183a2aa0c75d0958ac58f1d2"
+    }
+   ]
+  },
+  {
+   "slug": "21152-1",
+   "short": "21152.1",
+   "title": "Règlement relatif aux droits de propriété intellectuelle dans l'administration municipale",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-relatif-droits-propriete-intellectuelle-administ",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 11,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-relatif-droits-propriete-intellectuelle-administ",
+     "sha256": "e49494523becee7ef7e9a8edf52a336b7256d8f8cccb267e7c8566e2b2bb823e"
+    }
+   ]
+  },
+  {
+   "slug": "21152-10",
+   "short": "21152.10",
+   "title": "Règlement de la commission du personnel interne des Musées d'art et d'histoire",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-commission-personnel-interne-musees-art-histoire",
+   "versions": [
+    {
+     "from": "2012-02-01",
+     "units": 9,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-commission-personnel-interne-musees-art-histoire",
+     "sha256": "b1a24ab568f1c41293bd7b0b10c9a27b4e82960d54e68d5c99099dc63cece8e1"
+    }
+   ]
+  },
+  {
+   "slug": "21152-11",
+   "short": "21152.11",
+   "title": "Règlement de la commission du personnel interne du service de la petite enfance",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-commission-personnel-interne-service-petite-enfance",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 11,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-commission-personnel-interne-service-petite-enfance",
+     "sha256": "b2d6607aa6925a948d51dc34868611c3d543b9fe04b4ca8244ac0ff505ac5ecd"
+    }
+   ]
+  },
+  {
+   "slug": "21152-15",
+   "short": "21152.15",
+   "title": "Règlement relatif à la rémunération du personnel assurant la mise à disposition des locaux de vote dans les écoles primaires de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-relatif-remuneration-personnel-assurant-mise-disposition-locaux-vote-ecoles-primaires-ville-geneve",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 5,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-relatif-remuneration-personnel-assurant-mise-disposition-locaux-vote-ecoles-primaires-ville-geneve",
+     "sha256": "a3179b5f5275fc5410e466296fd42b5f1a15f36a1f6e08b8ff6c5063ec72a1c1"
+    }
+   ]
+  },
+  {
+   "slug": "21152-16",
+   "short": "21152.16",
+   "title": "Règlement sur les frais professionnels des membres du personnel",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-frais-professionnels-membres-personnel",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 20,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-frais-professionnels-membres-personnel",
+     "sha256": "917204d2b9dee1c0ffd0d97fc8ed2cf880bd9c5a61dda4cbc5a25baeb14da5df"
+    }
+   ]
+  },
+  {
+   "slug": "21152-18",
+   "short": "21152.18",
+   "title": "Règlement sur les indemnités et les congés spéciaux du personnel de la Division de la voirie",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-indemnites-conges-speciaux-personnel-division-voirie",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 28,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-indemnites-conges-speciaux-personnel-division-voirie",
+     "sha256": "0e3cc534b2a60000d564e651197fa43d61a8119ad96f37e5737d33f8bfb3de2f"
+    }
+   ]
+  },
+  {
+   "slug": "21152-21",
+   "short": "21152.21",
+   "title": "Règlement pour la réalisation de l'égalité entre femmes et hommes au sein de l'administration municipale",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-realisation-egalite-entre-femmes-hommes-sein-admini",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 17,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-realisation-egalite-entre-femmes-hommes-sein-admini",
+     "sha256": "ff972e2a4ced3e6881f6ded784349ed0801da00723ac3acc7a8dfff246a84b4a"
+    }
+   ]
+  },
+  {
+   "slug": "21152-22",
+   "short": "21152.22",
+   "title": "Règlement sur les inconvénients de service horaires",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-inconvenients-service-horaires",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 33,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-inconvenients-service-horaires",
+     "sha256": "07e65b2ccc1d9be95fe63d3eb8c7b594f4b6419a939f8de73f95bc829bab7168"
+    }
+   ]
+  },
+  {
+   "slug": "21152-35",
+   "short": "21152.35",
+   "title": "Règlement sur la protection de la santé et la sécurité du travail",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-protection-sante-securite-travail",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "units": 27,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-protection-sante-securite-travail",
+     "sha256": "45e650e168f9bad0414a9886a4347ff4e59c4062f2d6ea3641cc8bcce0f6a4c8"
+    }
+   ]
+  },
+  {
+   "slug": "21152-43",
+   "short": "21152.43",
+   "title": "Règlement sur l'aménagement du temps de travail planifié du service Voirie - Ville propre",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-amenagement-temps-travail-planifie-service-voirie-ville-propre",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 42,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-amenagement-temps-travail-planifie-service-voirie-ville-propre",
+     "sha256": "b7ee14e5a44bd41feb42de5913baee6133c40be18d2399a408bc17b04b4e1f0d"
+    }
+   ]
+  },
+  {
+   "slug": "21152-5",
+   "short": "21152.5",
+   "title": "Règlement relatif aux conditions d'engagement de l'apprenti et l'apprentie",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-relatif-conditions-engagement-apprenti-apprentie",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 10,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-relatif-conditions-engagement-apprenti-apprentie",
+     "sha256": "7bdbfa7ca8ac6b053c0d85d0cff8131afbc176d9705fb529fe9325bb1fa66335"
+    }
+   ]
+  },
+  {
+   "slug": "21152-6",
+   "short": "21152.6",
+   "title": "Règlement relatif aux conditions d'engagement du ou de la stagiaire",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-relatif-conditions-engagement-stagiaire",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 13,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-relatif-conditions-engagement-stagiaire",
+     "sha256": "c8baf63c2e0df41de93b6a398b6d92792579752232afbbfaa36aa816d10cfba9"
+    }
+   ]
+  },
+  {
+   "slug": "21152-7",
+   "short": "21152.7",
+   "title": "Règlement relatif aux conditions d'engagement de l'auxiliaire",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-relatif-conditions-engagement-auxiliaire",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 18,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-relatif-conditions-engagement-auxiliaire",
+     "sha256": "aa45115cd87229a82241a7f79d8b40c6f8eb663be47a351f2994c83975f8ab15"
+    }
+   ]
+  },
+  {
+   "slug": "21152-8",
+   "short": "21152.8",
+   "title": "Règlement sur les allocations pour enfants",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-allocations-enfants",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 15,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-allocations-enfants",
+     "sha256": "e6f374ab4198bd17ac3d97a97cf4a39d14e8025b466e3c8a56d3e3c75af19310"
+    }
+   ]
+  },
+  {
+   "slug": "21152-9",
+   "short": "21152.9",
+   "title": "Règlement de la commission des personnels du Grand Théâtre de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-commission-personnels-grand-theatre-geneve",
+   "versions": [
+    {
+     "from": "2012-11-21",
+     "units": 9,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21152-reglement-commission-personnels-grand-theatre-geneve",
+     "sha256": "427cab8f21d674587592b489fb4e57678b3048fa5ff365ad12e45faed8deffec"
+    }
+   ]
+  },
+  {
+   "slug": "21153-11",
+   "short": "21153.11",
+   "title": "Règlement sur la libération de l'obligation de travailler pour les fonctions particulièrement pénibles",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21153-reglement-liberation-obligation-travailler-fonctions-particulierement-penibles",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 19,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21153-reglement-liberation-obligation-travailler-fonctions-particulierement-penibles",
+     "sha256": "8194d550386f96cf24ef51905ea449935ddd88c688d965545932a2f3a8f9a06c"
+    }
+   ]
+  },
+  {
+   "slug": "21153-2",
+   "short": "21153.2",
+   "title": "Règlement d'élection des représentants des assurés de la Ville de Genève au Comité de gestion de la CAP",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21153-reglement-election-representants-assures-ville-geneve-comit",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 19,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21153-reglement-election-representants-assures-ville-geneve-comit",
+     "sha256": "17bbaa5c577a80a82581866b1a734384de7b18d8992fbc97ac0336255be1415e"
+    }
+   ]
+  },
+  {
+   "slug": "21153-3",
+   "short": "21153.3",
+   "title": "Règlement de la CPI « Ville de Genève et les autres communes genevoises » relatif au financement et à la garantie de la prévoyance",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21153-reglement-ville-geneve-autres-communes-genevoises-relatif",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 30,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21153-reglement-ville-geneve-autres-communes-genevoises-relatif",
+     "sha256": "1e37ae483a87c6cd4a29bffe1c2a299fcaaef46959f87ceffbaed495ed51ea6a"
+    }
+   ]
+  },
+  {
+   "slug": "21153-7",
+   "short": "21153.7",
+   "title": "Règlement du Fonds pour le versement d'une indemnité au décès",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21153-reglement-fonds-versement-indemnite-deces",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 24,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21153-reglement-fonds-versement-indemnite-deces",
+     "sha256": "8209c9d48fbac7959bcd95e52396cdaffa104eff54acab8bed47e33f4d34b2e3"
+    }
+   ]
+  },
+  {
+   "slug": "21154-1",
+   "short": "21154.1",
+   "title": "Règlement régissant l'attribution des places de stationnement sur le domaine privé de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21154-reglement-regissant-attribution-places-stationnement-domaine-prive-ville-geneve",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 24,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21154-reglement-regissant-attribution-places-stationnement-domaine-prive-ville-geneve",
+     "sha256": "e59c5a9999fb940970f45cbaef0a0f03766ba8bf7ff27294154a831339e12167"
+    }
+   ]
+  },
+  {
+   "slug": "21154-2",
+   "short": "21154.2",
+   "title": "Règlement fixant les conditions de location des logements de fonction de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21154-reglement-fixant-conditions-location-logements-fonction-ville-geneve",
+   "versions": [
+    {
+     "from": "2007-12-15",
+     "units": 17,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21154-reglement-fixant-conditions-location-logements-fonction-ville-geneve",
+     "sha256": "28dd56d973e37ec1e61ab0ed25f54ce3224038634f2eb005fd22ceae89e55cd2"
+    }
+   ]
+  },
+  {
+   "slug": "21181",
+   "short": "21181",
+   "title": "Règlement du programme d'encouragement à l'innovation sociétale « G'innove »",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21181-reglement-programme-encouragement-innovation-societale-innove",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 11,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21181-reglement-programme-encouragement-innovation-societale-innove",
+     "sha256": "88d6a6ae9002bb2afb09fecef338087b81d3dc0809d4390f76a4ac2713b55b68"
+    }
+   ]
+  },
+  {
+   "slug": "21191",
+   "short": "21191",
+   "title": "Règlement relatif au service du contrôle financier, à l'audit interne et à la révision des comptes annuels",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21191-reglement-relatif-service-controle-financier-audit-interne-revision-comptes-annuels",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 27,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21191-reglement-relatif-service-controle-financier-audit-interne-revision-comptes-annuels",
+     "sha256": "254d8f5c894b8d34514a8f667faadb89b524a9fb2b9580cb5a61510851d94cce"
+    }
+   ]
+  },
+  {
+   "slug": "21195",
+   "short": "21195",
+   "title": "Règlement régissant les conditions d'octroi des subventions municipales",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21195-reglement-regissant-conditions-octroi-subventions-municipales",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 16,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21195-reglement-regissant-conditions-octroi-subventions-municipales",
+     "sha256": "0fa9e350c617097581263c22cb5476fb63620c408f480f2939813bc6ee41eac0"
+    }
+   ]
+  },
+  {
+   "slug": "21214",
+   "short": "21214",
+   "title": "Règlement sur l'aménagement des chemins publics pour piétons sur fonds privés",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21214-reglement-amenagement-chemins-publics-pietons-fonds-prives",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 12,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21214-reglement-amenagement-chemins-publics-pietons-fonds-prives",
+     "sha256": "720c0600690f367ec657d7f40b66d84028909a943f1fccb256fdf15e8c3ae7f0"
+    }
+   ]
+  },
+  {
+   "slug": "21221",
+   "short": "21221",
+   "title": "Règlement du Fonds de responsabilité solidaire pour les marchés publics de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21221-reglement-fonds-responsabilite-solidaire-marches-publics-ville-geneve",
+   "versions": [
+    {
+     "from": "2016-03-18",
+     "units": 11,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21221-reglement-fonds-responsabilite-solidaire-marches-publics-ville-geneve",
+     "sha256": "f1a162d7e5cf64218bb9b6a24b6d3b48fc6dd1e88daac75640b71b65368f3228"
+    }
+   ]
+  },
+  {
+   "slug": "21221-1",
+   "short": "21221.1",
+   "title": "Règlement d'application du Fonds de responsabilité solidaire pour les marchés publics de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21221-reglement-application-fonds-responsabilite-solidaire-marches-publics-ville-geneve",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 16,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21221-reglement-application-fonds-responsabilite-solidaire-marches-publics-ville-geneve",
+     "sha256": "3776496269354d9e72d11960476f15c5d9d7d1e30e4883eb0a3c9a370bc2946c"
+    }
+   ]
+  },
+  {
+   "slug": "21222",
+   "short": "21222",
+   "title": "Règlement relatif à l'indemnisation des commerces de la rue de Carouge impactés par les travaux",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21222-reglement-relatif-indemnisation-commerces-carouge-impactes-travaux",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 14,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21222-reglement-relatif-indemnisation-commerces-carouge-impactes-travaux",
+     "sha256": "0c8100c9fe95c0f4cad2f7c356d7c7c54e45ffe3e19a65b91274e95574914cf8"
+    }
+   ]
+  },
+  {
+   "slug": "21252",
+   "short": "21252",
+   "title": "Règlement du Fonds municipal Post Tenebras Lux",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21252-reglement-fonds-municipal-post-tenebras",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 9,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21252-reglement-fonds-municipal-post-tenebras",
+     "sha256": "7d7a3e5cfaf6bc06ed41320ca6d78bd6aac73aa711debb4828b08f35d5bcc80b"
+    }
+   ]
+  },
+  {
+   "slug": "21253-1",
+   "short": "21253.1",
+   "title": "Règlement d'application du Fonds municipal d'art contemporain (RA-FMAC)",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21253-reglement-application-fonds-municipal-art-contemporain-fmac",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 15,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21253-reglement-application-fonds-municipal-art-contemporain-fmac",
+     "sha256": "f20b4c047f70f48784e19af4db4c0fc1ad616e9f134fe1d6297ebdc2cbb81061"
+    }
+   ]
+  },
+  {
+   "slug": "21311",
+   "short": "21311",
+   "title": "Règlement concernant les fêtes foraines",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21311-reglement-concernant-fetes-foraines",
+   "versions": [
+    {
+     "from": "1981-02-01",
+     "units": 21,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21311-reglement-concernant-fetes-foraines",
+     "sha256": "d45ab4e23c2771a338ab43296cdec8d1c8e04b13445f3cc08b555f35dff3d696"
+    }
+   ]
+  },
+  {
+   "slug": "21314",
+   "short": "21314",
+   "title": "Règlement sur les terrasses d'établissements publics",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21314-reglement-terrasses-etablissements-publics",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 31,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21314-reglement-terrasses-etablissements-publics",
+     "sha256": "4a0912a69b5026727dd943b847bf4774a8ddb940e6ffa59ea4f8798118d68163"
+    }
+   ]
+  },
+  {
+   "slug": "21316-4",
+   "short": "21316.4",
+   "title": "Règlement de la plage des Eaux-Vives",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21316-reglement-plage-eaux-vives",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "units": 16,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21316-reglement-plage-eaux-vives",
+     "sha256": "e3512f1f829058f5d8651c659720aeaf73a5d776a85343f5eb8ae84af3a41fe8"
+    }
+   ]
+  },
+  {
+   "slug": "21316-5",
+   "short": "21316.5",
+   "title": "Règlement général des Bains du Jet d'eau",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21316-reglement-general-bains-jet-eau",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 33,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21316-reglement-general-bains-jet-eau",
+     "sha256": "ff83cbe09ff4859b614996114fe19c1d6d34903e580230dd778ebe83d4f603b1"
+    }
+   ]
+  },
+  {
+   "slug": "21331",
+   "short": "21331",
+   "title": "Règlement des espaces verts, préaux et places de jeux de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21331-reglement-espaces-verts-preaux-places-jeux-ville-geneve",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 18,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21331-reglement-espaces-verts-preaux-places-jeux-ville-geneve",
+     "sha256": "877fc7bced31ed85cac6c1f55a2062aabe2c38f49ed322bc3495cf3bb2284baa"
+    }
+   ]
+  },
+  {
+   "slug": "21333",
+   "short": "21333",
+   "title": "Règlement du Fonds Thérèse de Francia de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21333-reglement-fonds-therese-francia-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 5,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21333-reglement-fonds-therese-francia-ville-geneve",
+     "sha256": "541aa2706ce89a9c171b1711d2b31abf8ab2fdf12719baaf73598533e1eb11db"
+    }
+   ]
+  },
+  {
+   "slug": "21351-2",
+   "short": "21351.2",
+   "title": "Règlement des infrastructures funéraires de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21351-reglement-infrastructures-funeraires-ville-geneve",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 23,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21351-reglement-infrastructures-funeraires-ville-geneve",
+     "sha256": "c70f7d7871bc1a4d44a69cb1d44395845b18f2a5cc471dc7776b7a1f0d976372"
+    }
+   ]
+  },
+  {
+   "slug": "21351-3",
+   "short": "21351.3",
+   "title": "Règlement relatif à l'exercice d'une industrie dans les cimetières de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21351-reglement-relatif-exercice-industrie-cimetieres-ville",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 20,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21351-reglement-relatif-exercice-industrie-cimetieres-ville",
+     "sha256": "35a1c3b5fe750b5544ff3bedb40dcbe1500fb4321b47d7e8af3da14ce1375c0c"
+    }
+   ]
+  },
+  {
+   "slug": "21372",
+   "short": "21372",
+   "title": "Règlement relatif à la mise à disposition du matériel de fêtes",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21372-reglement-relatif-mise-disposition-materiel-fetes",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 18,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21372-reglement-relatif-mise-disposition-materiel-fetes",
+     "sha256": "c2b384f345903ee7254865e595a7b17dad39ff9ad4149d21c48184888d50724a"
+    }
+   ]
+  },
+  {
+   "slug": "21374",
+   "short": "21374",
+   "title": "Règlement fixant les conditions d'adjudication des concessions de service public",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21374-reglement-fixant-conditions-adjudication-concessions-service-public",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 23,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21374-reglement-fixant-conditions-adjudication-concessions-service-public",
+     "sha256": "2c70d5c7744cc8424420e427de345d1b543ee970394cb6706e96f30dfc8c7e6b"
+    }
+   ]
+  },
+  {
+   "slug": "21375",
+   "short": "21375",
+   "title": "Règlement fixant les conditions de location des salles et locaux des musées du département de la culture et de la transition numérique (DCTN)",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21375-reglement-fixant-conditions-location-salles-locaux-musees-departement-culture-transition-numerique-dctn",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 25,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21375-reglement-fixant-conditions-location-salles-locaux-musees-departement-culture-transition-numerique-dctn",
+     "sha256": "7206fc0a88e2461162a30f5c7cad19b2e82e29d957bc1dced53136a752dbde70"
+    }
+   ]
+  },
+  {
+   "slug": "21411",
+   "short": "21411",
+   "title": "Règlement de la police municipale",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21411-reglement-police-municipale",
+   "versions": [
+    {
+     "from": "2019-03-19",
+     "units": 22,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21411-reglement-police-municipale",
+     "sha256": "4e2f9d85d65ab035f9b9972a7d695ce212454d081ed43c06df40ad7d9ae50644"
+    }
+   ]
+  },
+  {
+   "slug": "21431",
+   "short": "21431",
+   "title": "Règlement du corps des sapeurs-pompiers volontaires de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21431-reglement-corps-sapeurs-pompiers-volontaires-ville-geneve",
+   "versions": [
+    {
+     "from": "2012-12-01",
+     "units": 42,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21431-reglement-corps-sapeurs-pompiers-volontaires-ville-geneve",
+     "sha256": "3acd778aef70ff5be5be6c90199a9a0cd72629dfc8ed9e7b35ad877a275c1c4b"
+    }
+   ]
+  }
+ ]
+}

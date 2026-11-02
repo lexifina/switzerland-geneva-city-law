@@ -1,0 +1,11 @@
+{
+  "path": "ch-ge-geneve",
+  "code": "CH-GE-GENEVE",
+  "name": "Geneva (city)",
+  "level": "municipality",
+  "parent": "ch-ge",
+  "repo": "https://github.com/lexifina/switzerland-geneva-city-law",
+  "build": "built: municipal règlements (51 acts, 51 versions) from the Règlements de la Ville de Genève (LC 21)",
+  "language": "fr",
+  "sources": 1
+}
