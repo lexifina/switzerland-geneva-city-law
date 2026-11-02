@@ -8,7 +8,7 @@ The text is in French, exactly as the city publishes it.
 
 ## What this repository holds
 
-51 acts with 51 versions so far: the règlement of the municipal council first, then the city's other règlements, tariffs and similar enactments in force, in the order of the collection, in parts of about 50. Directives, instructions, general conditions and charters are not included.
+113 acts with 113 versions so far: the règlement of the municipal council first, then the city's other règlements, tariffs and similar enactments in force, in the order of the collection, in parts of about 50. Directives, instructions, general conditions and charters are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -63,6 +63,68 @@ The text is in French, exactly as the city publishes it.
 | `21375/` | Règlement fixant les conditions de location des salles et locaux des musées du département de la culture et de la transition numérique (DCTN) (21375) | 1 | current text only, as at 1 June 2020 |
 | `21411/` | Règlement de la police municipale (21411) | 1 | current text only, as at 19 March 2019 |
 | `21431/` | Règlement du corps des sapeurs-pompiers volontaires de la Ville de Genève (21431) | 1 | current text only, as at 1 December 2012 |
+| `21432/` | Règlement d'organisation du Service d'incendie et de secours (ROSIS) (21432) | 1 | current text only, as at 22 June 2017 |
+| `21511/` | Règlement relatif aux aides financières du Service social (21511) | 1 | current text only, as at 6 July 2023 |
+| `21513/` | Règlement relatif à l'aide financière ponctuelle en faveur de l'employabilité des jeunes (21513) | 1 | current text only, as at 1 November 2024 |
+| `21515/` | Règlement d'utilisation du fonds de bienfaisance de la Ville de Genève (21515) | 1 | current text only, as at 1 April 2015 |
+| `21516/` | Règlement d'utilisation du Fonds « Dons au service social » (21516) | 1 | current text only, as at 20 December 2017 |
+| `21516-1/` | Règlement d'utilisation du Fonds Arthur-Max Scheuermann (21516.1) | 1 | current text only, as at 12 December 2017 |
+| `21516-2/` | Règlement d'utilisation du Fonds Hélène Geydet (21516.2) | 1 | current text only, as at 12 December 2017 |
+| `21516-3/` | Règlement d'utilisation du Fonds Léopold Reifferscheidt (21516.3) | 1 | current text only, as at 12 December 2017 |
+| `21516-4/` | Règlement d'utilisation du Fonds Florence Viterbo (21516.4) | 1 | current text only, as at 12 December 2017 |
+| `21516-5/` | Règlement du Fonds Bouchet de la Ville de Genève (21516.5) | 1 | current text only, as at 19 December 2018 |
+| `21522/` | Règlement relatif aux conditions de subventionnement des associations de ludothèques de la Ville de Genève (21522) | 1 | current text only, as at 1 January 2016 |
+| `21523-1/` | Règlement d'application du Fonds municipal pour le soutien financier à la création de places d'apprentissage en ville de Genève (21523.1) | 1 | current text only, as at 1 August 2022 |
+| `21524/` | Règlement relatif au subventionnement à la mobilité (21524) | 1 | current text only, as at 6 March 2019 |
+| `21525/` | Règlement du Conseil administratif relatif à l'allocation au paiement des loyers commerciaux pour le mois de décembre 2020 dans le cadre de la crise sanitaire du coronavirus (COVID 19) (21525) | 1 | current text only, as at 23 December 2020 |
+| `21531/` | Règlement fixant les conditions de location des logements à caractère social de la Ville de Genève (21531) | 1 | current text only, as at 10 July 2024 |
+| `21533/` | Règlement relatif aux conditions de location des locaux commerciaux et établissements publics (21533) | 1 | current text only, as at 16 February 2024 |
+| `21534/` | Règlement relatif aux conditions de logements à loyer libre (21534) | 1 | current text only, as at 1 June 2020 |
+| `21541/` | Règlement des commissions de coordination des contrats de quartier (21541) | 1 | current text only, as at 27 March 2014 |
+| `21542/` | Règlement régissant les conditions d'octroi des subventions municipales aux Centres de loisirs et de rencontres – Maisons de quartier (21542) | 1 | current text only, as at 1 January 2015 |
+| `21551/` | Règlement relatif à l'accueil préscolaire en Ville de Genève et aux conditions d'octroi des subventions aux structures d'accueil (21551) | 1 | current text only, as at 1 October 2025 |
+| `21552/` | Règlement de la commission d'éthique professionnelle de la petite enfance de la Ville de Genève (21552) | 1 | current text only, as at 22 September 2011 |
+| `21553-1/` | Règlement d'utilisation du Fonds Charles Schaub et Charles Georg (21553.1) | 1 | current text only, as at 12 December 2017 |
+| `21553-2/` | Règlement d'utilisation du Fonds Colonies de vacances du Petit-Saconnex (21553.2) | 1 | current text only, as at 12 December 2017 |
+| `21561/` | Règlement relatif à la prestation de restauration scolaire en Ville de Genève et aux conditions de subventionnement des associations de cuisines et restaurants scolaires (21561) | 1 | current text only, as at 1 July 2025 |
+| `21562/` | Règlement régissant les conditions d'octroi des subventions municipales aux organismes de camps de vacances et centres-aérés (21562) | 1 | current text only, as at 1 July 2025 |
+| `21571-1/` | Règlement d'utilisation du fonds Emma Louise Zell (21571.1) | 1 | current text only, as at 24 November 2021 |
+| `21571-2/` | Règlement d'utilisation du Fonds Jules Alfred Robert (21571.2) | 1 | current text only, as at 12 December 2017 |
+| `21572/` | Règlement de la commission Ville amie des aînés (COVADA) (21572) | 1 | current text only, as at 11 June 2026 |
+| `21591/` | Règlement d'application du dispositif relatif aux subventions dédiées à la solidarité internationale (21591) | 1 | current text only, as at 1 January 2024 |
+| `21615/` | Règlement de la commission de déontologie des musées et des institutions patrimoniales de la Ville de Genève (21615) | 1 | current text only, as at 13 October 2021 |
+| `21616/` | Règlement régissant l'attribution d'un titre honorifique au sein des institutions scientifiques et patrimoniales (21616) | 1 | current text only, as at 2 February 2022 |
+| `21619-10/` | Règlement du Fonds Muller de la Ville de Genève (21619.10) | 1 | current text only, as at 19 December 2018 |
+| `21619-11/` | Règlement du Fonds Rehfous de la Ville de Genève (21619.11) | 1 | current text only, as at 19 December 2018 |
+| `21619-12/` | Règlement du Fonds Revillod de la Ville de Genève (21619.12) | 1 | current text only, as at 20 December 2017 |
+| `21619-6/` | Règlement du Fonds Diday de la Ville de Genève (21619.6) | 1 | current text only, as at 20 December 2017 |
+| `21619-7/` | Règlement du Fonds Diodatti-Plantamour de la Ville de Genève (21619.7) | 1 | current text only, as at 19 December 2018 |
+| `21619-8/` | Règlement du Fonds Maget de la Ville de Genève (21619.8) | 1 | current text only, as at 20 December 2017 |
+| `21619-9/` | Règlement du Fonds Milliet de la Ville de Genève (21619.9) | 1 | current text only, as at 19 December 2018 |
+| `21631-1/` | Règlement d'utilisation des Bibliothèques municipales (21631.1) | 1 | current text only, as at 7 March 2025 |
+| `21633/` | Règlement de la Bibliothèque de Genève (21633) | 1 | current text only, as at 23 March 2023 |
+| `21633-4/` | Règlement du Fonds Moroy de la Ville de Genève (21633.4) | 1 | current text only, as at 19 December 2018 |
+| `21634/` | Règlement de la Bibliothèque d'art et d'archéologie (21634) | 1 | current text only, as at 1 June 2020 |
+| `21635/` | Règlement de la Bibliothèque des Conservatoire et Jardin botaniques de la Ville de Genève (21635) | 1 | current text only, as at 1 June 2020 |
+| `21636/` | Règlement des Bibliothèques du Muséum d'histoire naturelle et du Musée d'histoire des sciences de la Ville de Genève (21636) | 1 | current text only, as at 1 June 2020 |
+| `21637/` | Règlement de la bibliothèque du Musée d'ethnographie de la Ville de Genève (21637) | 1 | current text only, as at 1 June 2020 |
+| `21653-1/` | Règlement du Fonds Stanley Thomas Johnson de la Ville de Genève (21653.1) | 1 | current text only, as at 19 December 2018 |
+| `21654/` | Règlement sur les émoluments et frais pour les services et prestations d'expertise, de formation, techniques ou technico-scientifiques du département en charge de la culture (21654) | 1 | current text only, as at 21 June 2023 |
+| `21659/` | Règlement d'application des commissions consultatives du service culturel (21659) | 1 | current text only, as at 1 January 2022 |
+| `21662-2/` | Règlement général des bourses d'études du Fonds Berthoud (21662.2) | 1 | current text only, as at 1 June 2020 |
+| `21663/` | Règlement général des bourses artistiques du Fonds Lissignol, Chevalier et Galland (21663) | 1 | current text only, as at 1 June 2020 |
+| `21663-1/` | Règlement du Fonds Chevalier de la Ville de Genève (21663.1) | 1 | current text only, as at 20 December 2017 |
+| `21663-2/` | Règlement du Fonds Lissignol de la Ville de Genève (21663.2) | 1 | current text only, as at 19 December 2018 |
+| `21664-1/` | Règlement du Fonds Amiel de la Ville de Genève (21664.1) | 1 | current text only, as at 19 December 2018 |
+| `21664-2/` | Règlement du Fonds Disdier de la Ville de Genève (21664.2) | 1 | current text only, as at 20 December 2017 |
+| `21664-3/` | Règlement du Fonds Hilly Mendelssohn de la Ville de Genève (21664.3) | 1 | current text only, as at 19 December 2018 |
+| `21664-5/` | Règlement du Fonds Neumann de la Ville de Genève (21664.5) | 1 | current text only, as at 19 December 2018 |
+| `21665/` | Règlement concernant l'attribution de bourses d'études artistiques à Paris par la Ville de Genève et la Fondation Simon I.Patiño (21665) | 1 | current text only, as at 23 July 2020 |
+| `21711/` | Règlement des installations sportives de la Ville de Genève (21711) | 1 | current text only, as at 14 March 2024 |
+| `21713/` | Règlement du Skatepark de Plainpalais de la Ville de Genève (21713) | 1 | current text only, as at 23 September 2026 |
+| `21714/` | Règlement général des bains des Pâquis (21714) | 1 | current text only, as at 3 October 2018 |
+| `21811/` | Règlement des marchés (21811) | 1 | current text only, as at 1 January 2020 |
+| `21812/` | Règlement de la Halle de Rive (21812) | 1 | current text only, as at 1 June 2020 |
 
 ## Source
 

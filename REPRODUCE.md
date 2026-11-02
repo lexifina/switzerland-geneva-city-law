@@ -65,20 +65,82 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `21375` | Règlement fixant les conditions de location des salles et locaux des musées du département de la culture et de la transition numérique (DCTN) | 1 | 2020-06-01 to 2020-06-01 |
 | `21411` | Règlement de la police municipale | 1 | 2019-03-19 to 2019-03-19 |
 | `21431` | Règlement du corps des sapeurs-pompiers volontaires de la Ville de Genève | 1 | 2012-12-01 to 2012-12-01 |
+| `21432` | Règlement d'organisation du Service d'incendie et de secours (ROSIS) | 1 | 2017-06-22 to 2017-06-22 |
+| `21511` | Règlement relatif aux aides financières du Service social | 1 | 2023-07-06 to 2023-07-06 |
+| `21513` | Règlement relatif à l'aide financière ponctuelle en faveur de l'employabilité des jeunes | 1 | 2024-11-01 to 2024-11-01 |
+| `21515` | Règlement d'utilisation du fonds de bienfaisance de la Ville de Genève | 1 | 2015-04-01 to 2015-04-01 |
+| `21516` | Règlement d'utilisation du Fonds « Dons au service social » | 1 | 2017-12-20 to 2017-12-20 |
+| `21516-1` | Règlement d'utilisation du Fonds Arthur-Max Scheuermann | 1 | 2017-12-12 to 2017-12-12 |
+| `21516-2` | Règlement d'utilisation du Fonds Hélène Geydet | 1 | 2017-12-12 to 2017-12-12 |
+| `21516-3` | Règlement d'utilisation du Fonds Léopold Reifferscheidt | 1 | 2017-12-12 to 2017-12-12 |
+| `21516-4` | Règlement d'utilisation du Fonds Florence Viterbo | 1 | 2017-12-12 to 2017-12-12 |
+| `21516-5` | Règlement du Fonds Bouchet de la Ville de Genève | 1 | 2018-12-19 to 2018-12-19 |
+| `21522` | Règlement relatif aux conditions de subventionnement des associations de ludothèques de la Ville de Genève | 1 | 2016-01-01 to 2016-01-01 |
+| `21523-1` | Règlement d'application du Fonds municipal pour le soutien financier à la création de places d'apprentissage en ville de Genève | 1 | 2022-08-01 to 2022-08-01 |
+| `21524` | Règlement relatif au subventionnement à la mobilité | 1 | 2019-03-06 to 2019-03-06 |
+| `21525` | Règlement du Conseil administratif relatif à l'allocation au paiement des loyers commerciaux pour le mois de décembre 2020 dans le cadre de la crise sanitaire du coronavirus (COVID 19) | 1 | 2020-12-23 to 2020-12-23 |
+| `21531` | Règlement fixant les conditions de location des logements à caractère social de la Ville de Genève | 1 | 2024-07-10 to 2024-07-10 |
+| `21533` | Règlement relatif aux conditions de location des locaux commerciaux et établissements publics | 1 | 2024-02-16 to 2024-02-16 |
+| `21534` | Règlement relatif aux conditions de logements à loyer libre | 1 | 2020-06-01 to 2020-06-01 |
+| `21541` | Règlement des commissions de coordination des contrats de quartier | 1 | 2014-03-27 to 2014-03-27 |
+| `21542` | Règlement régissant les conditions d'octroi des subventions municipales aux Centres de loisirs et de rencontres – Maisons de quartier | 1 | 2015-01-01 to 2015-01-01 |
+| `21551` | Règlement relatif à l'accueil préscolaire en Ville de Genève et aux conditions d'octroi des subventions aux structures d'accueil | 1 | 2025-10-01 to 2025-10-01 |
+| `21552` | Règlement de la commission d'éthique professionnelle de la petite enfance de la Ville de Genève | 1 | 2011-09-22 to 2011-09-22 |
+| `21553-1` | Règlement d'utilisation du Fonds Charles Schaub et Charles Georg | 1 | 2017-12-12 to 2017-12-12 |
+| `21553-2` | Règlement d'utilisation du Fonds Colonies de vacances du Petit-Saconnex | 1 | 2017-12-12 to 2017-12-12 |
+| `21561` | Règlement relatif à la prestation de restauration scolaire en Ville de Genève et aux conditions de subventionnement des associations de cuisines et restaurants scolaires | 1 | 2025-07-01 to 2025-07-01 |
+| `21562` | Règlement régissant les conditions d'octroi des subventions municipales aux organismes de camps de vacances et centres-aérés | 1 | 2025-07-01 to 2025-07-01 |
+| `21571-1` | Règlement d'utilisation du fonds Emma Louise Zell | 1 | 2021-11-24 to 2021-11-24 |
+| `21571-2` | Règlement d'utilisation du Fonds Jules Alfred Robert | 1 | 2017-12-12 to 2017-12-12 |
+| `21572` | Règlement de la commission Ville amie des aînés (COVADA) | 1 | 2026-06-11 to 2026-06-11 |
+| `21591` | Règlement d'application du dispositif relatif aux subventions dédiées à la solidarité internationale | 1 | 2024-01-01 to 2024-01-01 |
+| `21615` | Règlement de la commission de déontologie des musées et des institutions patrimoniales de la Ville de Genève | 1 | 2021-10-13 to 2021-10-13 |
+| `21616` | Règlement régissant l'attribution d'un titre honorifique au sein des institutions scientifiques et patrimoniales | 1 | 2022-02-02 to 2022-02-02 |
+| `21619-10` | Règlement du Fonds Muller de la Ville de Genève | 1 | 2018-12-19 to 2018-12-19 |
+| `21619-11` | Règlement du Fonds Rehfous de la Ville de Genève | 1 | 2018-12-19 to 2018-12-19 |
+| `21619-12` | Règlement du Fonds Revillod de la Ville de Genève | 1 | 2017-12-20 to 2017-12-20 |
+| `21619-6` | Règlement du Fonds Diday de la Ville de Genève | 1 | 2017-12-20 to 2017-12-20 |
+| `21619-7` | Règlement du Fonds Diodatti-Plantamour de la Ville de Genève | 1 | 2018-12-19 to 2018-12-19 |
+| `21619-8` | Règlement du Fonds Maget de la Ville de Genève | 1 | 2017-12-20 to 2017-12-20 |
+| `21619-9` | Règlement du Fonds Milliet de la Ville de Genève | 1 | 2018-12-19 to 2018-12-19 |
+| `21631-1` | Règlement d'utilisation des Bibliothèques municipales | 1 | 2025-03-07 to 2025-03-07 |
+| `21633` | Règlement de la Bibliothèque de Genève | 1 | 2023-03-23 to 2023-03-23 |
+| `21633-4` | Règlement du Fonds Moroy de la Ville de Genève | 1 | 2018-12-19 to 2018-12-19 |
+| `21634` | Règlement de la Bibliothèque d'art et d'archéologie | 1 | 2020-06-01 to 2020-06-01 |
+| `21635` | Règlement de la Bibliothèque des Conservatoire et Jardin botaniques de la Ville de Genève | 1 | 2020-06-01 to 2020-06-01 |
+| `21636` | Règlement des Bibliothèques du Muséum d'histoire naturelle et du Musée d'histoire des sciences de la Ville de Genève | 1 | 2020-06-01 to 2020-06-01 |
+| `21637` | Règlement de la bibliothèque du Musée d'ethnographie de la Ville de Genève | 1 | 2020-06-01 to 2020-06-01 |
+| `21653-1` | Règlement du Fonds Stanley Thomas Johnson de la Ville de Genève | 1 | 2018-12-19 to 2018-12-19 |
+| `21654` | Règlement sur les émoluments et frais pour les services et prestations d'expertise, de formation, techniques ou technico-scientifiques du département en charge de la culture | 1 | 2023-06-21 to 2023-06-21 |
+| `21659` | Règlement d'application des commissions consultatives du service culturel | 1 | 2022-01-01 to 2022-01-01 |
+| `21662-2` | Règlement général des bourses d'études du Fonds Berthoud | 1 | 2020-06-01 to 2020-06-01 |
+| `21663` | Règlement général des bourses artistiques du Fonds Lissignol, Chevalier et Galland | 1 | 2020-06-01 to 2020-06-01 |
+| `21663-1` | Règlement du Fonds Chevalier de la Ville de Genève | 1 | 2017-12-20 to 2017-12-20 |
+| `21663-2` | Règlement du Fonds Lissignol de la Ville de Genève | 1 | 2018-12-19 to 2018-12-19 |
+| `21664-1` | Règlement du Fonds Amiel de la Ville de Genève | 1 | 2018-12-19 to 2018-12-19 |
+| `21664-2` | Règlement du Fonds Disdier de la Ville de Genève | 1 | 2017-12-20 to 2017-12-20 |
+| `21664-3` | Règlement du Fonds Hilly Mendelssohn de la Ville de Genève | 1 | 2018-12-19 to 2018-12-19 |
+| `21664-5` | Règlement du Fonds Neumann de la Ville de Genève | 1 | 2018-12-19 to 2018-12-19 |
+| `21665` | Règlement concernant l'attribution de bourses d'études artistiques à Paris par la Ville de Genève et la Fondation Simon I.Patiño | 1 | 2020-07-23 to 2020-07-23 |
+| `21711` | Règlement des installations sportives de la Ville de Genève | 1 | 2024-03-14 to 2024-03-14 |
+| `21713` | Règlement du Skatepark de Plainpalais de la Ville de Genève | 1 | 2026-09-23 to 2026-09-23 |
+| `21714` | Règlement général des bains des Pâquis | 1 | 2018-10-03 to 2018-10-03 |
+| `21811` | Règlement des marchés | 1 | 2020-01-01 to 2020-01-01 |
+| `21812` | Règlement de la Halle de Rive | 1 | 2020-06-01 to 2020-06-01 |
 
-The build made 51 commits:
+The build made 113 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 51 | first version of an act |
+| 113 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futur`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 51 laws in the record.
-- 51 tags.
+- 112 laws in the record.
+- 113 tags.
 
 ## Dates
 
@@ -90,13 +152,13 @@ When a law gives no date of its own, the default rule applies: Each act's single
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8ec43cce140d1892254796d9e7f2cf82d60079c7daf4ed4208b6dc5e7b65d109` (899895 bytes).
+- Corpus: sha256 `f807b3bdd64db709870b29015c90c24d4552591838a4cf0b90f2bd9400e67f4b` (1612704 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-Not yet run for this build.
+113 versions of 113 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 

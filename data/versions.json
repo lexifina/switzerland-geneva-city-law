@@ -714,6 +714,874 @@
      "sha256": "3acd778aef70ff5be5be6c90199a9a0cd72629dfc8ed9e7b35ad877a275c1c4b"
     }
    ]
+  },
+  {
+   "slug": "21432",
+   "short": "21432",
+   "title": "Règlement d'organisation du Service d'incendie et de secours (ROSIS)",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21432-reglement-organisation-service-incendie-secours-rosis",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 7,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21432-reglement-organisation-service-incendie-secours-rosis",
+     "sha256": "b73ceb778bac50277a5e8e667999a882eaa1298b8581152efdc76671e313e40c"
+    }
+   ]
+  },
+  {
+   "slug": "21511",
+   "short": "21511",
+   "title": "Règlement relatif aux aides financières du Service social",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21511-reglement-relatif-aides-financieres-service-social",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 27,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21511-reglement-relatif-aides-financieres-service-social",
+     "sha256": "3c611a5608c1ab827930cbba5afd8061c01d0a483df7cf8cc001dd523c71bd72"
+    }
+   ]
+  },
+  {
+   "slug": "21513",
+   "short": "21513",
+   "title": "Règlement relatif à l'aide financière ponctuelle en faveur de l'employabilité des jeunes",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21513-reglement-relatif-aide-financiere-ponctuelle-faveur-employabilite-jeunes",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 12,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21513-reglement-relatif-aide-financiere-ponctuelle-faveur-employabilite-jeunes",
+     "sha256": "e09a62c3cdea1c1e153c8eec95163b96ba278db54da0b3c578db68dede691d57"
+    }
+   ]
+  },
+  {
+   "slug": "21515",
+   "short": "21515",
+   "title": "Règlement d'utilisation du fonds de bienfaisance de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21515-reglement-utilisation-fonds-bienfaisance-ville-geneve",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 14,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21515-reglement-utilisation-fonds-bienfaisance-ville-geneve",
+     "sha256": "cad9391072d3d78dd2cdf81a8d7c1a165e6a9b424b8125e83ee9feca2c168a20"
+    }
+   ]
+  },
+  {
+   "slug": "21516",
+   "short": "21516",
+   "title": "Règlement d'utilisation du Fonds « Dons au service social »",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-utilisation-fonds-dons-service-social",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 15,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-utilisation-fonds-dons-service-social",
+     "sha256": "75b317a9e096b17e330e34b348ce4016d8d96bead51df969c3db75e27e0aba5a"
+    }
+   ]
+  },
+  {
+   "slug": "21516-1",
+   "short": "21516.1",
+   "title": "Règlement d'utilisation du Fonds Arthur-Max Scheuermann",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-utilisation-fonds-arthur-scheuermann",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 14,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-utilisation-fonds-arthur-scheuermann",
+     "sha256": "23bbdac530a38f1f2399348cec5bb73f60541b62d8cddb3e7c6b5592f1ca0160"
+    }
+   ]
+  },
+  {
+   "slug": "21516-2",
+   "short": "21516.2",
+   "title": "Règlement d'utilisation du Fonds Hélène Geydet",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-utilisation-fonds-helene-geydet",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 14,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-utilisation-fonds-helene-geydet",
+     "sha256": "bede4a9e31cecd9417c138725728d5ea866c9c52b7f294d43547eb6eb1cec2fb"
+    }
+   ]
+  },
+  {
+   "slug": "21516-3",
+   "short": "21516.3",
+   "title": "Règlement d'utilisation du Fonds Léopold Reifferscheidt",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-utilisation-fonds-leopold-reifferscheidt",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 14,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-utilisation-fonds-leopold-reifferscheidt",
+     "sha256": "84470003fbc63277ec99eb3da13d52718320a1a21b3b99bfdfa5cb8a39bbafa3"
+    }
+   ]
+  },
+  {
+   "slug": "21516-4",
+   "short": "21516.4",
+   "title": "Règlement d'utilisation du Fonds Florence Viterbo",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-utilisation-fonds-florence-viterbo",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 13,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-utilisation-fonds-florence-viterbo",
+     "sha256": "91f647bdc7caa0ee5872f9d62a47844f0e20841c26d987a771b738c73992c89c"
+    }
+   ]
+  },
+  {
+   "slug": "21516-5",
+   "short": "21516.5",
+   "title": "Règlement du Fonds Bouchet de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-fonds-bouchet-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 7,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21516-reglement-fonds-bouchet-ville-geneve",
+     "sha256": "e46d43fd31b0df230980bb501d39424485251afe612afd20c83d344a53a7ef8d"
+    }
+   ]
+  },
+  {
+   "slug": "21522",
+   "short": "21522",
+   "title": "Règlement relatif aux conditions de subventionnement des associations de ludothèques de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21522-reglement-relatif-conditions-subventionnement-associations",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 18,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21522-reglement-relatif-conditions-subventionnement-associations",
+     "sha256": "8e4961529978fdd33e4de75c3d8d8fa6149bdb0208629002d593f8a785ea8428"
+    }
+   ]
+  },
+  {
+   "slug": "21523-1",
+   "short": "21523.1",
+   "title": "Règlement d'application du Fonds municipal pour le soutien financier à la création de places d'apprentissage en ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21523-reglement-application-fonds-municipal-soutien-financier-creation-places-apprentissage-ville-geneve",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 18,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21523-reglement-application-fonds-municipal-soutien-financier-creation-places-apprentissage-ville-geneve",
+     "sha256": "22cdfbb26e5f732eb6a5ce4179d3655ea3b0aa7d50aac0d8fa0b04a8f270aa13"
+    }
+   ]
+  },
+  {
+   "slug": "21524",
+   "short": "21524",
+   "title": "Règlement relatif au subventionnement à la mobilité",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21524-reglement-relatif-subventionnement-mobilite",
+   "versions": [
+    {
+     "from": "2019-03-06",
+     "units": 6,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21524-reglement-relatif-subventionnement-mobilite",
+     "sha256": "ed27bc5720c5c5d7542af30cfe14dd0958415b530094974c2a5136406c3c2677"
+    }
+   ]
+  },
+  {
+   "slug": "21525",
+   "short": "21525",
+   "title": "Règlement du Conseil administratif relatif à l'allocation au paiement des loyers commerciaux pour le mois de décembre 2020 dans le cadre de la crise sanitaire du coronavirus (COVID 19)",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21525-reglement-conseil-administratif-relatif-allocation-paiement-loyers-commerciaux-mois-decembre-2020-cadre-crise-sanitaire-coronavirus-covid",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 11,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21525-reglement-conseil-administratif-relatif-allocation-paiement-loyers-commerciaux-mois-decembre-2020-cadre-crise-sanitaire-coronavirus-covid",
+     "sha256": "ce96d2477307d6ca646e76a3833939ac08c1a5f2e7e57badf5715233f3fd5125"
+    }
+   ]
+  },
+  {
+   "slug": "21531",
+   "short": "21531",
+   "title": "Règlement fixant les conditions de location des logements à caractère social de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21531-reglement-fixant-conditions-location-logements-caractere-social-ville-geneve",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 20,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21531-reglement-fixant-conditions-location-logements-caractere-social-ville-geneve",
+     "sha256": "2162640100204d7816edc71b29877871dbea3082e8ef4efd9cfd0efc4283b79a"
+    }
+   ]
+  },
+  {
+   "slug": "21533",
+   "short": "21533",
+   "title": "Règlement relatif aux conditions de location des locaux commerciaux et établissements publics",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21533-reglement-relatif-conditions-location-locaux-commerciaux-etab",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 23,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21533-reglement-relatif-conditions-location-locaux-commerciaux-etab",
+     "sha256": "fe887b74247ce20b8a12de402c5936124ba5b059294d1242a695a36a6a31258e"
+    }
+   ]
+  },
+  {
+   "slug": "21534",
+   "short": "21534",
+   "title": "Règlement relatif aux conditions de logements à loyer libre",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21534-reglement-relatif-conditions-logements-loyer-libre",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 17,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21534-reglement-relatif-conditions-logements-loyer-libre",
+     "sha256": "94198acaf73067a52549feb090150adb572f46615a153856da189d94054e0044"
+    }
+   ]
+  },
+  {
+   "slug": "21541",
+   "short": "21541",
+   "title": "Règlement des commissions de coordination des contrats de quartier",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21541-reglement-commissions-coordination-contrats-quartier",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 12,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21541-reglement-commissions-coordination-contrats-quartier",
+     "sha256": "ade110902eadec22f5d4af2003baf339a5de0def6ba64c780b2005f28d6f11cf"
+    }
+   ]
+  },
+  {
+   "slug": "21542",
+   "short": "21542",
+   "title": "Règlement régissant les conditions d'octroi des subventions municipales aux Centres de loisirs et de rencontres – Maisons de quartier",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21542-reglement-regissant-conditions-octroi-subventions-municipales",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 16,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21542-reglement-regissant-conditions-octroi-subventions-municipales",
+     "sha256": "749b2501166d325a9cfdcaf44c72e49ab263988a36ecdf4a1bfc95bd57460c3f"
+    }
+   ]
+  },
+  {
+   "slug": "21551",
+   "short": "21551",
+   "title": "Règlement relatif à l'accueil préscolaire en Ville de Genève et aux conditions d'octroi des subventions aux structures d'accueil",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21551-reglement-relatif-accueil-prescolaire-ville-geneve-conditions-octroi-subventions-structures-accueil",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 60,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21551-reglement-relatif-accueil-prescolaire-ville-geneve-conditions-octroi-subventions-structures-accueil",
+     "sha256": "16958f95e2d7a3026a823657bc638bd4ac4504f170da6039b42ea7b206b27cd2"
+    }
+   ]
+  },
+  {
+   "slug": "21552",
+   "short": "21552",
+   "title": "Règlement de la commission d'éthique professionnelle de la petite enfance de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21552-reglement-commission-ethique-professionnelle-petite-enfance-ville",
+   "versions": [
+    {
+     "from": "2011-09-22",
+     "units": 15,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21552-reglement-commission-ethique-professionnelle-petite-enfance-ville",
+     "sha256": "49aaa30f0e82981fb6792b2679f875df4efc7a1918e326afa5f16cc295d417bd"
+    }
+   ]
+  },
+  {
+   "slug": "21553-1",
+   "short": "21553.1",
+   "title": "Règlement d'utilisation du Fonds Charles Schaub et Charles Georg",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21553-reglement-utilisation-fonds-charles-schaub-charles-georg",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 13,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21553-reglement-utilisation-fonds-charles-schaub-charles-georg",
+     "sha256": "af609c71ebbdd3cb3621f5c97d495aff49c97fa3fb11bd315b8de861a3d39d14"
+    }
+   ]
+  },
+  {
+   "slug": "21553-2",
+   "short": "21553.2",
+   "title": "Règlement d'utilisation du Fonds Colonies de vacances du Petit-Saconnex",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21553-reglement-utilisation-fonds-colonies-vacances-petit-saconnex",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 14,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21553-reglement-utilisation-fonds-colonies-vacances-petit-saconnex",
+     "sha256": "003ccf6ead411a6e6c716bfa9f59f1e62c04641ab06acd1a8b4a24e1fbf437d7"
+    }
+   ]
+  },
+  {
+   "slug": "21561",
+   "short": "21561",
+   "title": "Règlement relatif à la prestation de restauration scolaire en Ville de Genève et aux conditions de subventionnement des associations de cuisines et restaurants scolaires",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21561-reglement-relatif-prestation-restauration-scolaire-ville-geneve-conditions-subventionnement-associations-cuisines-restaurants-scolaires",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 24,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21561-reglement-relatif-prestation-restauration-scolaire-ville-geneve-conditions-subventionnement-associations-cuisines-restaurants-scolaires",
+     "sha256": "325e2607faaef8521c774e6f54f35fe0ce15f5cbfde13d184860e521977c8b41"
+    }
+   ]
+  },
+  {
+   "slug": "21562",
+   "short": "21562",
+   "title": "Règlement régissant les conditions d'octroi des subventions municipales aux organismes de camps de vacances et centres-aérés",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21562-reglement-regissant-conditions-octroi-subventions-municipales-organismes-camps-vacances-centres-aeres",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 15,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21562-reglement-regissant-conditions-octroi-subventions-municipales-organismes-camps-vacances-centres-aeres",
+     "sha256": "981e07a7d554523925e716a34ab12b95448650a1ba4e1db89438866579123407"
+    }
+   ]
+  },
+  {
+   "slug": "21571-1",
+   "short": "21571.1",
+   "title": "Règlement d'utilisation du fonds Emma Louise Zell",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21571-reglement-utilisation-fonds-emma-louise-zell",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 17,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21571-reglement-utilisation-fonds-emma-louise-zell",
+     "sha256": "aa85a62f42bb95991b8248a700253b2bda5aab64e9d16afa271fada5e59549ac"
+    }
+   ]
+  },
+  {
+   "slug": "21571-2",
+   "short": "21571.2",
+   "title": "Règlement d'utilisation du Fonds Jules Alfred Robert",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21571-reglement-utilisation-fonds-jules-alfred-robert",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 14,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21571-reglement-utilisation-fonds-jules-alfred-robert",
+     "sha256": "195fed37de891a0dff2b67b52bd549315f5a0d51afdf2d668cdad15cc9e2ca30"
+    }
+   ]
+  },
+  {
+   "slug": "21572",
+   "short": "21572",
+   "title": "Règlement de la commission Ville amie des aînés (COVADA)",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/21-572-reglement-commission-ville-amie-aines-covada",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 18,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/21-572-reglement-commission-ville-amie-aines-covada",
+     "sha256": "b1f4849dbfd58778a779cd4501614a840a1f4877a40ecc2136043f9a8baa0f80"
+    }
+   ]
+  },
+  {
+   "slug": "21591",
+   "short": "21591",
+   "title": "Règlement d'application du dispositif relatif aux subventions dédiées à la solidarité internationale",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21591-reglement-application-dispositif-relatif-subventions-dediees-solidarite-internationale",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 33,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21591-reglement-application-dispositif-relatif-subventions-dediees-solidarite-internationale",
+     "sha256": "2dbd84265641017bd0d68631d2f91e0709d1ed1555b6ad956be3695b558a0c7f"
+    }
+   ]
+  },
+  {
+   "slug": "21615",
+   "short": "21615",
+   "title": "Règlement de la commission de déontologie des musées et des institutions patrimoniales de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21615-reglement-commission-deontologie-musees-institutions-patrimon",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 7,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21615-reglement-commission-deontologie-musees-institutions-patrimon",
+     "sha256": "a643bcdaee243009464eca80b67573e3d3374d725fc887473067b90bd4b786cb"
+    }
+   ]
+  },
+  {
+   "slug": "21616",
+   "short": "21616",
+   "title": "Règlement régissant l'attribution d'un titre honorifique au sein des institutions scientifiques et patrimoniales",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21616-reglement-regissant-attribution-titre-honorifique-sein-institutions-scientifiques-patrimoniales",
+   "versions": [
+    {
+     "from": "2022-02-02",
+     "units": 12,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21616-reglement-regissant-attribution-titre-honorifique-sein-institutions-scientifiques-patrimoniales",
+     "sha256": "72ccbe7cd573564b8ea614ac55888aefb40740cca1a49f4eac1b4f6e09aa3f5f"
+    }
+   ]
+  },
+  {
+   "slug": "21619-10",
+   "short": "21619.10",
+   "title": "Règlement du Fonds Muller de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-muller-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 7,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-muller-ville-geneve",
+     "sha256": "1fe0e558d829d7d6669bd418bd0ff06b32449ee1f580e4acf60c3abe7a256a16"
+    }
+   ]
+  },
+  {
+   "slug": "21619-11",
+   "short": "21619.11",
+   "title": "Règlement du Fonds Rehfous de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-rehfous-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 7,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-rehfous-ville-geneve",
+     "sha256": "e8ed415b11c15cf5e5f689060da03568aa21452cce77084630375d709166c146"
+    }
+   ]
+  },
+  {
+   "slug": "21619-12",
+   "short": "21619.12",
+   "title": "Règlement du Fonds Revillod de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-revillod-ville-geneve",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 6,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-revillod-ville-geneve",
+     "sha256": "e10511288f1b315b76f39a4bd81f84877ce15eda8c3643f0b6cad93140fecdfe"
+    }
+   ]
+  },
+  {
+   "slug": "21619-6",
+   "short": "21619.6",
+   "title": "Règlement du Fonds Diday de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-diday-ville-geneve",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 6,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-diday-ville-geneve",
+     "sha256": "5ff8115ea5d8fe57ba7d39362154390357070242e22627049c8af61e0778ef8f"
+    }
+   ]
+  },
+  {
+   "slug": "21619-7",
+   "short": "21619.7",
+   "title": "Règlement du Fonds Diodatti-Plantamour de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-diodatti-plantamour-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 7,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-diodatti-plantamour-ville-geneve",
+     "sha256": "e668d40b8b8175efd8ec0dc215099110ad7c41cfcb78245f55573b994333f78f"
+    }
+   ]
+  },
+  {
+   "slug": "21619-8",
+   "short": "21619.8",
+   "title": "Règlement du Fonds Maget de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-maget-ville-geneve",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 6,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-maget-ville-geneve",
+     "sha256": "1615cc7171048caaec450b8d27c402d0b51d4c5a8eb01c3e3848d43187202659"
+    }
+   ]
+  },
+  {
+   "slug": "21619-9",
+   "short": "21619.9",
+   "title": "Règlement du Fonds Milliet de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-milliet-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 7,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21619-reglement-fonds-milliet-ville-geneve",
+     "sha256": "44b2c8da1d3be41873dde2b9a2a876ca91409dbddc0c11b3334459c18e7480d1"
+    }
+   ]
+  },
+  {
+   "slug": "21631-1",
+   "short": "21631.1",
+   "title": "Règlement d'utilisation des Bibliothèques municipales",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21631-reglement-utilisation-bibliotheques-municipales",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 15,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21631-reglement-utilisation-bibliotheques-municipales",
+     "sha256": "f88c0f032639970a3f20b645c466f8b02d117f8edf120043c7ce6bc3054c714e"
+    }
+   ]
+  },
+  {
+   "slug": "21633",
+   "short": "21633",
+   "title": "Règlement de la Bibliothèque de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21633-reglement-bibliotheque-geneve",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 28,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21633-reglement-bibliotheque-geneve",
+     "sha256": "3a47aff150a96cbc0dbc1d050e2e76f063fac3040b305dd49f70f00939766f6b"
+    }
+   ]
+  },
+  {
+   "slug": "21633-4",
+   "short": "21633.4",
+   "title": "Règlement du Fonds Moroy de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21633-reglement-fonds-moroy-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 6,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21633-reglement-fonds-moroy-ville-geneve",
+     "sha256": "49eb3e361190c84439f66d490fc33147ac8459c868570b4798a8e2cea01a0ddd"
+    }
+   ]
+  },
+  {
+   "slug": "21634",
+   "short": "21634",
+   "title": "Règlement de la Bibliothèque d'art et d'archéologie",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21634-reglement-bibliotheque-art-archeologie",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 26,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21634-reglement-bibliotheque-art-archeologie",
+     "sha256": "9cbe5cc0a8e6309d60e70b4c30a92d46f55c3fa83e4831c7c49a049b5705797c"
+    }
+   ]
+  },
+  {
+   "slug": "21635",
+   "short": "21635",
+   "title": "Règlement de la Bibliothèque des Conservatoire et Jardin botaniques de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21635-reglement-bibliotheque-conservatoire-jardin-botaniques-ville-gene",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 26,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21635-reglement-bibliotheque-conservatoire-jardin-botaniques-ville-gene",
+     "sha256": "8192f467c17a025c525f3550b6a73fe571b11a9ceda43c4283f31a54a4edc6f4"
+    }
+   ]
+  },
+  {
+   "slug": "21636",
+   "short": "21636",
+   "title": "Règlement des Bibliothèques du Muséum d'histoire naturelle et du Musée d'histoire des sciences de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21636-reglement-bibliotheques-museum-histoire-naturelle-musee-histoire",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 23,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21636-reglement-bibliotheques-museum-histoire-naturelle-musee-histoire",
+     "sha256": "ee53f852ea3b47d04f241a0bb081a25f0c3eec4ab719945e5b2005f131ca04d1"
+    }
+   ]
+  },
+  {
+   "slug": "21637",
+   "short": "21637",
+   "title": "Règlement de la bibliothèque du Musée d'ethnographie de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21637-reglement-bibliotheque-musee-ethnographie-ville-geneve",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 32,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21637-reglement-bibliotheque-musee-ethnographie-ville-geneve",
+     "sha256": "f2ed03a50583477c04dfa066e719d07e2321e39d400d8c087da65fcec9b14275"
+    }
+   ]
+  },
+  {
+   "slug": "21653-1",
+   "short": "21653.1",
+   "title": "Règlement du Fonds Stanley Thomas Johnson de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21653-reglement-fonds-stanley-thomas-johnson-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 6,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21653-reglement-fonds-stanley-thomas-johnson-ville-geneve",
+     "sha256": "6a8a64345905e9740098e9d48391320893b4e80758b323ff3bc876ee52725ada"
+    }
+   ]
+  },
+  {
+   "slug": "21654",
+   "short": "21654",
+   "title": "Règlement sur les émoluments et frais pour les services et prestations d'expertise, de formation, techniques ou technico-scientifiques du département en charge de la culture",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21654-reglement-emoluments-frais-services-prestations-expertise-formation-techniques-technico-scientifiques-departement-charge-culture",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 15,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21654-reglement-emoluments-frais-services-prestations-expertise-formation-techniques-technico-scientifiques-departement-charge-culture",
+     "sha256": "336ef495c1bec4d9d991168c7bfd220784dd4b81bca30e134411cb1e3177c273"
+    }
+   ]
+  },
+  {
+   "slug": "21659",
+   "short": "21659",
+   "title": "Règlement d'application des commissions consultatives du service culturel",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21659-reglement-application-commissions-consultatives-service-culturel",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 15,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21659-reglement-application-commissions-consultatives-service-culturel",
+     "sha256": "7a3b38a216e0413af70f6a324860368d339d4f3b8f28f7187b7ee3da8e833373"
+    }
+   ]
+  },
+  {
+   "slug": "21662-2",
+   "short": "21662.2",
+   "title": "Règlement général des bourses d'études du Fonds Berthoud",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21662-reglement-general-bourses-etudes-fonds-berthoud",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 15,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21662-reglement-general-bourses-etudes-fonds-berthoud",
+     "sha256": "2e4706dae3111d51d57682eb6d759f341bf06b59ace3dc61d0cbdcc738fa6d55"
+    }
+   ]
+  },
+  {
+   "slug": "21663",
+   "short": "21663",
+   "title": "Règlement général des bourses artistiques du Fonds Lissignol, Chevalier et Galland",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21663-reglement-general-bourses-artistiques-fonds-lissignol-chevalier-galland",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 14,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21663-reglement-general-bourses-artistiques-fonds-lissignol-chevalier-galland",
+     "sha256": "83b60b2d679a8eb8a12e3a79601c7d3b92752f63d67c998e958e85bf3e24944a"
+    }
+   ]
+  },
+  {
+   "slug": "21663-1",
+   "short": "21663.1",
+   "title": "Règlement du Fonds Chevalier de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21663-reglement-fonds-chevalier-ville-geneve",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 6,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21663-reglement-fonds-chevalier-ville-geneve",
+     "sha256": "5866147eac28cf08975e064813255132e49d7b043be54dbc022fd37528b96ff1"
+    }
+   ]
+  },
+  {
+   "slug": "21663-2",
+   "short": "21663.2",
+   "title": "Règlement du Fonds Lissignol de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21663-reglement-fonds-lissignol-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 7,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21663-reglement-fonds-lissignol-ville-geneve",
+     "sha256": "83d836d2819a7c13d20b6027a2c2673775348edfa5e3b87acde281e0653044f9"
+    }
+   ]
+  },
+  {
+   "slug": "21664-1",
+   "short": "21664.1",
+   "title": "Règlement du Fonds Amiel de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21664-reglement-fonds-amiel-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 7,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21664-reglement-fonds-amiel-ville-geneve",
+     "sha256": "fdda6b5260fd04e9c561ad8c577418825076d672e74528a8c0c1b14c471004ad"
+    }
+   ]
+  },
+  {
+   "slug": "21664-2",
+   "short": "21664.2",
+   "title": "Règlement du Fonds Disdier de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21664-reglement-fonds-disdier-ville-geneve",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 6,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21664-reglement-fonds-disdier-ville-geneve",
+     "sha256": "ca70484b90907297ba76fc218e626efc173a204ec711320931904423fffdc976"
+    }
+   ]
+  },
+  {
+   "slug": "21664-3",
+   "short": "21664.3",
+   "title": "Règlement du Fonds Hilly Mendelssohn de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21664-reglement-fonds-hilly-mendelssohn-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 6,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21664-reglement-fonds-hilly-mendelssohn-ville-geneve",
+     "sha256": "5649a4fba1be95a0e6bdfcafc25eb97fdd0b4a23785630927805d191274e402a"
+    }
+   ]
+  },
+  {
+   "slug": "21664-5",
+   "short": "21664.5",
+   "title": "Règlement du Fonds Neumann de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21664-reglement-fonds-neumann-ville-geneve",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 7,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21664-reglement-fonds-neumann-ville-geneve",
+     "sha256": "469b69482fe08a05ae938fb0ef6a0bf34087e7412fa8f3e90a07debe59667e3f"
+    }
+   ]
+  },
+  {
+   "slug": "21665",
+   "short": "21665",
+   "title": "Règlement concernant l'attribution de bourses d'études artistiques à Paris par la Ville de Genève et la Fondation Simon I.Patiño",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21665-reglement-concernant-attribution-bourses-etudes-artistiques-paris",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 10,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21665-reglement-concernant-attribution-bourses-etudes-artistiques-paris",
+     "sha256": "4dad013de22029e9fcaf5b629b0818b13a30b42e73dc57796b86b24ca412d2e8"
+    }
+   ]
+  },
+  {
+   "slug": "21711",
+   "short": "21711",
+   "title": "Règlement des installations sportives de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21711-reglement-installations-sportives-ville-geneve",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 38,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21711-reglement-installations-sportives-ville-geneve",
+     "sha256": "acc4f68fcd13f37212ab7e1804b330bc7f27177e1915b1f3d0d47181fa5bb59e"
+    }
+   ]
+  },
+  {
+   "slug": "21713",
+   "short": "21713",
+   "title": "Règlement du Skatepark de Plainpalais de la Ville de Genève",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21713-reglement-skatepark-plainpalais-ville-geneve",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 13,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21713-reglement-skatepark-plainpalais-ville-geneve",
+     "sha256": "0140781ee001b28fae15c2f320668f32cadda60530f0201b2024e4279f2b9303"
+    }
+   ]
+  },
+  {
+   "slug": "21714",
+   "short": "21714",
+   "title": "Règlement général des bains des Pâquis",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21714-reglement-general-bains-paquis",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 17,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21714-reglement-general-bains-paquis",
+     "sha256": "da793276565abfbf616263d420795bfa3c6e81c6cf0e05bc62a2f3221ca69e05"
+    }
+   ]
+  },
+  {
+   "slug": "21811",
+   "short": "21811",
+   "title": "Règlement des marchés",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21811-reglement-marches",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 61,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21811-reglement-marches",
+     "sha256": "6990d7b825eb606a6d9e3d5d69588ca9cf7bde1692aa5722908427bd802dc541"
+    }
+   ]
+  },
+  {
+   "slug": "21812",
+   "short": "21812",
+   "title": "Règlement de la Halle de Rive",
+   "url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21812-reglement-halle-rive",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 36,
+     "source_url": "https://www.geneve.ch/administration-municipale/reglements-municipaux/lc21812-reglement-halle-rive",
+     "sha256": "a8337590126330895e5e260336563536651923d688af2659daee1984cc805ea4"
+    }
+   ]
   }
  ]
 }
