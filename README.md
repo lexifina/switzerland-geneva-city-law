@@ -1,5 +1,7 @@
 # Geneva (city): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Geneva, Geneva, Switzerland, which global-law reads at `switzerland/geneva/geneva/acts/`.
+
 The municipal law of the city of Geneva (Ville de Genève, canton of Geneva, Switzerland) as a git history: one file per article, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law). The law of the canton of Geneva is in [lexifina/switzerland-geneva-law](https://github.com/lexifina/switzerland-geneva-law); federal law is in [lexifina/switzerland-law](https://github.com/lexifina/switzerland-law).
